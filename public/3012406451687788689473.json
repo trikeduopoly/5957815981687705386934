@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777822914075",
+    "project_id": "mbah-ti-bi-checking-pinjoldev",
+    "storage_bucket": "mbah-ti-bi-checking-pinjoldev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777822914075:android:2dba3da12de6adba40dabe",
+        "android_client_info": {
+          "package_name": "com.pinjamantanpabichecking.PinjolDev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777822914075-k4d4g7v3udlk48ogoovp8e8pf6ham1p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Bu2EwdwSjdb45SQmhYqVsMerrC9OM30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777822914075-k4d4g7v3udlk48ogoovp8e8pf6ham1p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
